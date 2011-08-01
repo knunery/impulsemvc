@@ -1,11 +1,14 @@
-README.txt
+README.markdown
 Impulse Controls (Alpha)
+========================
 (jQuery Mobile ASP .NET MVC 3 Controls)
-========
+---------------------------------------
 
-This release contains the following:
+What's in this release?
+-----------------------
 
 Html.ActionButton() - Creates a jQuery Mobile Action Button
+-----------------------------------------------------------
 Sample syntax:
 Sample output:
 <a href="index.html" data-role="button" data-icon="delete">Delete</a>
@@ -13,6 +16,7 @@ Sample output:
 <a href="foo.html" data-rel="dialog" data-transition="pop">Open dialog</a> 
 
 Html.ListView() - Creates a jQuery Mobile ListView
+--------------------------------------------------
 Sample syntax:
 Sample output:
 
