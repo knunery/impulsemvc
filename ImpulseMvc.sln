@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ImpulseMvc3Demo", "ImpulseMvc3Demo\ImpulseMvc3Demo.csproj", "{FB1FB6DB-0359-45CA-85C3-840E503BCC7F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Impulse.Web.Mvc", "Impulse.Web.Mvc\Impulse.Web.Mvc.csproj", "{2FE0BFF0-A9CB-457A-BFC2-5307C3DEF8EF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FB1FB6DB-0359-45CA-85C3-840E503BCC7F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FB1FB6DB-0359-45CA-85C3-840E503BCC7F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FB1FB6DB-0359-45CA-85C3-840E503BCC7F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FB1FB6DB-0359-45CA-85C3-840E503BCC7F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2FE0BFF0-A9CB-457A-BFC2-5307C3DEF8EF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2FE0BFF0-A9CB-457A-BFC2-5307C3DEF8EF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2FE0BFF0-A9CB-457A-BFC2-5307C3DEF8EF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2FE0BFF0-A9CB-457A-BFC2-5307C3DEF8EF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

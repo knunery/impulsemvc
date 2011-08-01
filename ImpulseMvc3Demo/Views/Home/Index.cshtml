@@ -1,0 +1,13 @@
+﻿@using ImpulseMvc3Demo.Models
+@model IList<Employee>
+
+@{
+    ViewBag.Title = "Index";
+}
+
+<ul>
+@foreach (var employee in Model)
+{
+	  <li>@employee.Name</li>
+}
+</ul>
